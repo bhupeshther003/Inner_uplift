@@ -1,10 +1,10 @@
 psycopg2-binary
-libpq-dev
-Django==4.2.8
+django==4.2.8
 asgiref==3.7.2
 django-jazzmin==2.6.0
 psycopg2==2.9.9
 pytz==2023.3.post1
 sqlparse==0.4.4
 typing_extensions==4.7.1
-Pillow-9.5.0
+Pillow==9.5.0
+

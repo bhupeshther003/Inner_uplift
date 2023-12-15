@@ -1,5 +1,5 @@
 ﻿asgiref==3.7.2
-Django
+django
 django-jazzmin==2.6.0
 psycopg2==2.9.9
 pytz==2023.3.post1
